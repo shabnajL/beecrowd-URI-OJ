@@ -58,7 +58,7 @@ int main()
             printf("-1\n");
         }
         else{
-            printf("%lf\n",mn);
+            printf("%.2lf\n",mn);
         }
 
     v.clear();
@@ -66,4 +66,3 @@ int main()
 
 return 0;
 }
-
